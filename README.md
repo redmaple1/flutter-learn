@@ -1,6 +1,6 @@
-# myapp
+# flutter-learning
 
-A new Flutter project.
+一个Flutter学习程序.
 
 ## Getting Started
 
